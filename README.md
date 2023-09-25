@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Nitin, a Computer Science student with skills in Full Stack Web Development (MERN), Java, C++, and Software Engineering. 
+I'm Nitin, a Computer Science student with skills in Full Stack Web Development (MERN), Java, C++, and Software Engineering.
 I'm passionate about technology and love exploring new things, gaining knowledge along the way.
 ## 🔭 I’m currently working on:
 
