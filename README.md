@@ -37,6 +37,17 @@
 ## ⚡ Fun fact:
 - I love playing cricket and other sports, but I'm not a fitness freak.
 
+### :volcano: Funny Joke
+
+> "Have you heard about the object-oriented way to become wealthy?"
+>> "No..."
+>>> "Inheritance!"
+
+> "Why all Pascal programmers ask to live in Atlantis?"
+>> "Because it is below C level."
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/blackhawk_vk18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blackhawk_vk18" height="30" width="40" /></a>
