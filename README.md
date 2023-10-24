@@ -5,7 +5,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=GovardhaneNitin&icon=2&color=6)](https://visitcount.itsvg.in)
 
-### 🌐 Socials:
+### 🌐 Follow Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitingovardhane) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@blackhawk_vk18) 
 
 ## 🌱 I’m currently learning:
