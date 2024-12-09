@@ -25,8 +25,10 @@
 ## ⚡ Fun fact:
 - I love playing cricket and other sports, but I'm not a fitness freak.
 
-## ✍️ Quote's
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## ✍️ Inspirational Quotes
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
+</p>
 
 ## 💻 Tech Stack:
 
@@ -42,9 +44,11 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
+
+### Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### DevOps
 ![Git](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) 
