@@ -25,12 +25,12 @@
 ## ⚡ Fun fact:
 - I love playing cricket and other sports, but I'm not a fitness freak.
 
-## ✍️ Inspirational Quotes
+<h2 align="center"> ✍️ Inspirational Quotes </h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
 </p>
 
-## 💻 Tech Stack:
+<h2 align="center"> 🧑‍💻 Tech Stack 🧑‍💻 </h2>
 
 ## 🎨 **Frontend Development**
 - 🌐 **HTML5**
@@ -40,21 +40,15 @@
 - 📐 **Bootstrap**
 - 🌬️ **TailwindCSS**
 
----
-
 ## 🔧 **Backend Technologies**
 - 🟢 **Node.js**
 - 🛤️ **Express.js**
 - 🐘 **PHP**
 
----
-
 ## 📜 **Programming Languages**
 - ☕ **Java**
 - 📘 **C**
 - 📗 **C++**
-
----
 
 ## 🌐 **DevOps Tools**
 - 🌿 **Git**
@@ -62,9 +56,8 @@
 - 🌍 **Netlify**
 - 🏹 **Apache**
 
----
-
 ## 💾 **Databases**
 - 🍃 **MongoDB**
 - 📊 **MySQL**
 - 🐘 **PostgreSQL**
+---
