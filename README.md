@@ -33,7 +33,15 @@
 <h2 align="center"> 🧑‍💻 Tech Stack 🧑‍💻 </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,php,java,c,cpp,git,github,netlify,mongodb,mysql,postgresql,aws,replit,discord,docker,eclipse,redux,vercel,vscode" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js&perline=3" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&perline=3" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php&perline=3" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp&perline=3" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=git,github,netlify&perline=3" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=3" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=aws,replit,discord&perline=3" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=docker,eclipse,redux&perline=3" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=vercel,vscode&perline=2" alt="Tech Stack" />
   </a>
 </p>
 
